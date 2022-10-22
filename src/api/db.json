@@ -1,0 +1,105 @@
+{
+  "kanban": [
+    {
+      "id": 1,
+      "name": "encontrar template",
+      "owner": "ael",
+      "details": "encontrar template kanban para elaborar versão em reactjs",
+      "step": "verify",
+      "status": 1,
+      "created_at": null,
+      "updated_at": 1666417058112,
+      "deadline": null,
+      "leftDays": null
+    },
+    {
+      "id": 2,
+      "name": "criar projeto react js",
+      "owner": "ael",
+      "details": "encontrar template kanban para elaborar versão em reactjs",
+      "step": "todo",
+      "status": 1,
+      "created_at": null,
+      "updated_at": null,
+      "deadline": null,
+      "leftDays": null
+    },
+    {
+      "id": 3,
+      "name": "adaptar o template html ao react",
+      "owner": "ael",
+      "details": "encontrar template kanban para elaborar versão em reactjs",
+      "step": "verify",
+      "status": 1,
+      "created_at": null,
+      "updated_at": null,
+      "deadline": null,
+      "leftDays": null
+    },
+    {
+      "id": 4,
+      "name": "instalar o json server",
+      "owner": "ael",
+      "details": "encontrar template kanban para elaborar versão em reactjs",
+      "step": "todo",
+      "status": 1,
+      "created_at": null,
+      "updated_at": null,
+      "deadline": null,
+      "leftDays": null
+    },
+    {
+      "id": 5,
+      "name": "usar as tasks do arquivo json",
+      "owner": "ael",
+      "details": "encontrar template kanban para elaborar versão em reactjs",
+      "step": "done",
+      "status": 1,
+      "created_at": null,
+      "updated_at": null,
+      "deadline": null,
+      "leftDays": null
+    },
+    {
+      "id": 6,
+      "name": "elaborar o crud",
+      "owner": "ael",
+      "details": "encontrar template kanban para elaborar versão em reactjs",
+      "step": "stories",
+      "status": 1,
+      "created_at": null,
+      "updated_at": null,
+      "deadline": null,
+      "leftDays": null
+    },
+    {
+      "name": "nova task - testes",
+      "details": "detalhes",
+      "step": "inprogress",
+      "status": 1,
+      "id": 7
+    },
+    {
+      "name": "nova tarefa agora com data",
+      "step": "todo",
+      "owner": "ael",
+      "status": 1,
+      "created_at": 1666413430411,
+      "updated_at": 1666413430411,
+      "deadline": 1666413430411,
+      "leftDays": 0,
+      "id": 8
+    },
+    {
+      "name": "nova  tarefa para salvar",
+      "step": "inprogress",
+      "owner": "ael",
+      "status": 1,
+      "created_at": 1666417103953,
+      "updated_at": 1666417123153,
+      "deadline": 1666417103953,
+      "leftDays": 0,
+      "id": 9
+    }
+  ]
+}
